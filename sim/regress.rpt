@@ -1,0 +1,63 @@
+###########################################################
+####               ICTC Regression Report              ####
+###########################################################
+Total testcase run: 52
+Passed            : 52
+Failed            : 0
+Unknown           : 0
+Used time         : 5m 6s
+-----------------------------------------------------------
+Run log detail:
+log/baudrate_mismatch_123969.log: => Passed
+log/data_bits_mismatch_462127.log: => Passed
+log/full_115200_831461.log: => Passed
+log/full_19200_259553.log: => Passed
+log/full_1_stop_bits_338931.log: => Passed
+log/full_2_stop_bits_985769.log: => Passed
+log/full_4800_557602.log: => Passed
+log/full_57600_872851.log: => Passed
+log/full_5_data_bits_797447.log: => Passed
+log/full_6_data_bits_162312.log: => Passed
+log/full_7_data_bits_670638.log: => Passed
+log/full_8_data_bits_440146.log: => Passed
+log/full_9600_891447.log: => Passed
+log/full_9_data_bits_288900.log: => Passed
+log/full_custom_baudrate_537457.log: => Passed
+log/full_even_991845.log: => Passed
+log/full_no_746799.log: => Passed
+log/full_odd_848529.log: => Passed
+log/half_lhs_rhs_115200_520935.log: => Passed
+log/half_lhs_rhs_19200_118681.log: => Passed
+log/half_lhs_rhs_1_stop_bits_529021.log: => Passed
+log/half_lhs_rhs_2_stop_bits_659983.log: => Passed
+log/half_lhs_rhs_4800_877752.log: => Passed
+log/half_lhs_rhs_57600_400606.log: => Passed
+log/half_lhs_rhs_5_data_bits_134964.log: => Passed
+log/half_lhs_rhs_6_data_bits_839406.log: => Passed
+log/half_lhs_rhs_7_data_bits_713156.log: => Passed
+log/half_lhs_rhs_8_data_bits_711797.log: => Passed
+log/half_lhs_rhs_9600_811325.log: => Passed
+log/half_lhs_rhs_9_data_bits_524249.log: => Passed
+log/half_lhs_rhs_custom_baudrate_921193.log: => Passed
+log/half_lhs_rhs_even_214197.log: => Passed
+log/half_lhs_rhs_no_318836.log: => Passed
+log/half_lhs_rhs_odd_111311.log: => Passed
+log/half_rhs_lhs_115200_447013.log: => Passed
+log/half_rhs_lhs_19200_411740.log: => Passed
+log/half_rhs_lhs_1_stop_bits_761247.log: => Passed
+log/half_rhs_lhs_2_stop_bits_105485.log: => Passed
+log/half_rhs_lhs_4800_585147.log: => Passed
+log/half_rhs_lhs_57600_317618.log: => Passed
+log/half_rhs_lhs_5_data_bits_446761.log: => Passed
+log/half_rhs_lhs_6_data_bits_721836.log: => Passed
+log/half_rhs_lhs_7_data_bits_344705.log: => Passed
+log/half_rhs_lhs_8_data_bits_875224.log: => Passed
+log/half_rhs_lhs_9600_972356.log: => Passed
+log/half_rhs_lhs_9_data_bits_518716.log: => Passed
+log/half_rhs_lhs_custom_baudrate_768160.log: => Passed
+log/half_rhs_lhs_even_982430.log: => Passed
+log/half_rhs_lhs_no_118422.log: => Passed
+log/half_rhs_lhs_odd_273582.log: => Passed
+log/parity_mismatch_485802.log: => Passed
+log/stop_bits_mismatch_845454.log: => Passed
+-----------------------------------------------------------
